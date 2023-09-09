@@ -1,8 +1,9 @@
--- List all tables in the specified database
+-- List all tables in the specified database if it exists
 
--- Specify the database name as an argument
-USE `dbname`;
+-- Try to use the specified database
+USE dbname;
 
--- List tables in the specified database
+-- List tables in the specified database if it exists
 SHOW TABLES;
+
 
