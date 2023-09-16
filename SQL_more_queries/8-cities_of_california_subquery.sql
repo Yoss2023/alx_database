@@ -1,4 +1,7 @@
+
 -- Use the 'hbtn_0d_usa' database
+CREATE DATABASE IF NOT EXISTS hbtn_0d_usa;
+
 USE hbtn_0d_usa;
 
 -- Find the state ID for California
