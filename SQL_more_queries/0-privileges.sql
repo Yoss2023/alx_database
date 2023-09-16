@@ -1,3 +1,8 @@
+-- This is a comment in SQL
+
+-- You can add comments to describe your SQL statements
+SELECT * FROM users; -- This selects all records from the 'users' table
+
 # Log in to MySQL as the root user
 mysql -h localhost -u root -p
 
